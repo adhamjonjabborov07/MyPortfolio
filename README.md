@@ -1,16 +1,81 @@
-# React + Vite
+🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal portfolio website built with React.
+The website showcases my skills, projects, and certificates in a clean and modern design.
 
-Currently, two official plugins are available:
+🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Demo link: (add your Vercel / Netlify / GitHub Pages link here)
 
-## React Compiler
+🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+⚛️ React (Functional Components & Hooks)
 
-## Expanding the ESLint configuration
+🎨 Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 React Router DOM
+
+📦 JSON (db.json) for project & certificate data
+
+🌙 Responsive & Modern UI
+
+📄 Pages
+
+Home – Introduction, role, and call-to-action
+
+About Me – Short bio, skills, and goals
+
+My Projects – Projects loaded dynamically from db.json
+
+My Certificates – Certificates displayed in a clean grid
+
+Footer – Social media links
+
+📁 Project Structure
+src/
+│── components/
+│── pages/
+│── data/
+│   └── db.json
+│── App.jsx
+│── main.jsx
+│── index.css
+
+📊 Features
+
+🌐 Multi-language support (Uzbek 🇺🇿, Russian 🇷🇺, English 🇬🇧)
+
+📱 Fully responsive (mobile, tablet, desktop)
+
+🎨 Modern UI with hover effects
+
+🔗 Live demo & GitHub links for projects
+
+🧩 Reusable components
+
+⚡ Fast performance
+
+▶️ Getting Started
+1️⃣ Clone the repository
+git clone https://github.com/adhamjonjabborov07/your-repo-name.git
+
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Run the project
+npm run dev
+
+📬 Contact & Social Links
+
+GitHub: adhamjonjabborov07
+
+Instagram: @jabborovv_07
+
+📌 Author
+
+👨‍💻 Adhamjon Jabborov
+Frontend Developer | React Enthusiast
+
+⭐ Support
+
+If you like this project, feel free to ⭐ star the repository and share feedback!
