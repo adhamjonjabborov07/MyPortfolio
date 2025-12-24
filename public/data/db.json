@@ -1,0 +1,93 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Shoporia",
+      "description": "E-commerce platform for online shopping with product catalog, shopping cart, and checkout system.",
+      "technologies": [
+        "React",
+        "Javascript",
+        "Json-server",
+        "Tailwind.css"
+      ],
+      "image": "/images/shoporia.png",
+      "demoLink": "https://github.com/akmaljonmordayev/Shoporia",
+      "githubLink": "https://github.com/AdhamjonJabborov/shoporia"
+    },
+    {
+      "id": 2,
+      "title": "Sergeli TIM School Website",
+      "description": "Official website for Sergeli TIM School with information about courses, teachers, and student management system.",
+      "technologies": [
+        "React",
+        "Javascript",
+        "Django",
+        "CSS",
+        "Python"
+      ],
+      "image": "/images/sergeli.png",
+      "demoLink": "https://github.com/akmaljonmordayev/Shoporia",
+      "githubLink": "https://github.com/akmaljonmordayev/Shoporia"
+    },
+    {
+      "id": 3,
+      "title": "E-commerce Platform",
+      "description": "Full-featured e-commerce platform with product management, shopping cart, and checkout system.",
+      "technologies": [
+        "React",
+        "Next.js",
+        "MongoDB",
+        "Express.js",
+        "Stripe"
+      ],
+      "image": "/images/project-3.jpg",
+      "demoLink": "https://ecommerce-demo.com",
+      "githubLink": "https://github.com/AdhamjonJabborov/ecommerce-platform"
+    },
+    {
+      "id": 4,
+      "title": "Admin Dashboard",
+      "description": "Administrative dashboard for managing users, products, and system settings with analytics and reporting.",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Chart.js"
+      ],
+      "image": "/images/project-4.jpg",
+      "demoLink": "https://admin-dashboard-demo.com",
+      "githubLink": "https://github.com/AdhamjonJabborov/admin-dashboard"
+    }
+  ],
+  "certificates": [
+    {
+      "id": 1,
+      "title": "React Fundamentals",
+      "organization": "Udemy",
+      "year": 2023,
+      "image": "/images/certificate-1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Advanced JavaScript",
+      "organization": "Coursera",
+      "year": 2022,
+      "image": "/images/certificate-2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "TypeScript Certification",
+      "organization": "Microsoft",
+      "year": 2023,
+      "image": "/images/certificate-3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Design Principles",
+      "organization": "Figma",
+      "year": 2022,
+      "image": "/images/certificate-4.jpg"
+    }
+  ]
+}
